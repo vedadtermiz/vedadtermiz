@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vedad Termiz 👋  <br>Founder of [HVTeq](https://hvteq.com) | Developer | AI Enthusiast<br><br>Passionate about building digital solutions with Flutter, Firebase, and AI automation. Always learning, always creating. 🚀<br>
+Hi, I'm Vedad Termiz 👋  <br>Founder of [Hvteq](https://hvteq.com) | Developer | AI Enthusiast<br><br>Passionate about building digital solutions with Flutter, Firebase, and AI automation. Always learning, always creating. 🚀<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedad_termiz) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@hvteq.com) [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://hvteq.com)
